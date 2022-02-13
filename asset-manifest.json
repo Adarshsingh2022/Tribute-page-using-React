@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tribute-page-using-React/static/css/main.b1742577.css",
+    "main.js": "/Tribute-page-using-React/static/js/main.637dc0c3.js",
+    "index.html": "/Tribute-page-using-React/index.html",
+    "main.b1742577.css.map": "/Tribute-page-using-React/static/css/main.b1742577.css.map",
+    "main.637dc0c3.js.map": "/Tribute-page-using-React/static/js/main.637dc0c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1742577.css",
+    "static/js/main.637dc0c3.js"
+  ]
+}
